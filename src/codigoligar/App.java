@@ -15,7 +15,7 @@ public class App {
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                JOptionPane.showMessageDialog(null, "A verdade está lá fora.");
+                JOptionPane.showMessageDialog(null, "Preciso de uma chance par ser programador.");
             }
         });
     }
